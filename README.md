@@ -1,4 +1,4 @@
-![IAQ Monitor Cover Image](cover.jpg)
+![IAQ Monitor Cover Image](cover.png)
 # Low-Cost Indoor Air Quality (IAQ) Monitoring System
 
 ## Overview
