@@ -25,6 +25,25 @@ The recorded CO₂ decay curves were used to estimate air change rates (ACR) and
 - **Power supply** and **protective enclosure**
 
 ---
+## Bill of Materials (Estimated Cost)
+The following table lists all components used in the IAQ monitoring system, along with their approximate quantities and costs (USD) at the time of assembly.
+
+| Component | Quantity | Cost (USD) |
+|------------|-----------|------------|
+| ESP32 development board (30 pin) | 1 | 7.0 |
+| MH-Z14 CO₂ sensor | 1 | 32.0 |
+| PMS5003 particulate matter sensor | 1 | 19.0 |
+| MicroSD card module | 1 | 0.9 |
+| MicroSD card (4 GB) | 1 | 4.0 |
+| Perfboard | 2 | 0.4 |
+| USB-A to USB-C cable | 2 | 4.0 |
+| microUSB to USB-C adapter | 1 | 5.0 |
+| Portable power bank (5 V output) | 1 | 6.0 |
+| USB wall adapter | 1 | 6.0 |
+| Jumper wires | 1 | 0.8 |
+| **Total** | **12** | **≈ 89.5** |
+
+---
 
 ## Software Requirements
 - **Arduino IDE** (version 2.0 or later)
