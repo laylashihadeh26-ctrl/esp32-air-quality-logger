@@ -17,15 +17,7 @@ The recorded CO₂ decay curves were used to estimate air change rates (ACR) and
 
 ---
 
-## Hardware Requirements
-- **ESP32 microcontroller**  
-- **CO₂ sensor** (MH-Z19)  
-- **Particulate matter (PM) sensor** (Plantower PMS5003)  
-- **microSD card module**  
-- **Power supply** and **protective enclosure**
-
----
-## Bill of Materials (Estimated Cost)
+## Bill of Materials and Hardware Requirements (Estimated Cost)
 The following table lists all components used in the IAQ monitoring system, along with their approximate quantities and costs (USD) at the time of assembly.
 
 | Component | Quantity | Cost (USD) |
