@@ -3,9 +3,9 @@
 
 ## Overview
 This project presents a low-cost indoor air quality (IAQ) monitoring system designed to evaluate ventilation effectiveness in indoor spaces.  
-The system measures carbon dioxide (CO₂) and **particulate matter (PM₁.₀, PM₂.₅, PM₁₀) concentrations and logs the data to a microSD card for later analysis.  
+The system measures carbon dioxide (CO₂) and particulate matter (PM₁.₀, PM₂.₅, PM₁₀) concentrations and logs the data to a microSD card for later analysis.  
 
-Built on an ESP32 microcontroller, the device was deployed in the American University of Beirut weight room for a two-week monitoring period (July–August 2025).  
+Built on an ESP32 microcontroller, the device was deployed in a weight room for a two-week monitoring period (July–August 2025).  
 The recorded CO₂ decay curves were used to estimate air change rates (ACR) and assess compliance with ASHRAE Standard 62.1 ventilation requirements.
 
 ---
